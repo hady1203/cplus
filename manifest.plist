@@ -34,7 +34,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Cplusfx APP</string><!--修改这里-->
+                    <string>Cplusfx</string><!--修改这里-->
                 </dict>
             </dict>
         </array>
